@@ -1,6 +1,6 @@
 ----------------------- libro.txt -----------------------
 EL LIBRO MAS FAMOSO DEL MUNDO
-AUTORES: Juan Pablo
+AUTORES: Juan Pablo, Andres Ariza
 CAPITULO UNO
 CAPITULO DOS
 CAPITULO TRES
