@@ -18,8 +18,8 @@ Los proyectos para este semestre son:
 
 ![imagen](https://www.aauniv.com/s/blog/wp-content/uploads/2021/12/que-hace-un-ingeniero-de-sistemas-1280x720.jpg)
 
-![PrincipalJP](./PrincipalJP.png)
-![RemotaJP](./RemotaJP.png)
+![PrincipalJP](./PrincipalJP.PNG)
+![RemotaJP](./RemotaJP.PNG)
 
 ```
 print("Hello World!")
