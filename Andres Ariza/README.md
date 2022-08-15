@@ -18,6 +18,9 @@ Los proyectos para este semestre son:
 
 ![imagen](https://static6.depositphotos.com/1030334/671/i/600/depositphotos_6716219-stock-photo-kitten.jpg)
 
+![prueba_0](./prueba_0.png)
+![prueba_1](./prueba_1.png)
+
 ```
 I love CVDS
 ```
